@@ -2,7 +2,7 @@ public class Enemy extends CharacterTmp {
 
     // コンストラクタ
     Enemy() {
-        name = "スライム";
+        name = "スライーム";
         hp = 12;
         attack = 2;
         speed = 4;
